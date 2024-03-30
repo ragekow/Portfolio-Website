@@ -15,7 +15,7 @@ This project aims to provide you with a platform to showcase your work, skills, 
 ## Technologies Used
 
 - HTML
-- CSS (including frameworks like Bootstrap for styling)
+- CSS (including frameworks like Tailwindcss for styling)
 - JavaScript (optional for interactivity)
 - Backend technologies if implementing a contact form (e.g., Node.js, Express.js, and Nodemailer for sending emails)
 
